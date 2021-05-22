@@ -1,0 +1,122 @@
+body {
+	color: #FFFFFF;
+	background-position: center center;
+	background-repeat: repeat;
+	background-image: url(assets/background.jpg);
+	text-align: center;
+}
+.footer {
+	color: #D4D4D4;
+}
+.main {
+		color: #FFFFFF;
+	text-align: center;
+}
+h1 {
+	color: #FFFFFF;
+}
+.paragraph_text {
+	text-align: left;
+}
+.menu_bar {
+	color: #00DDF8;
+	text-align: center;
+	background-color: #008DC8;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+.header_div {
+	background-image: url(assets/Absolute_Record_small.png);
+	background-repeat: no-repeat;
+	height: 110px;
+	margin-top: 0px;
+	display: block;
+}
+.center_div {
+	background-image: url(assets/Absolute_Record_small.png);
+	background-repeat: no-repeat;
+	height: 100%;
+	margin-top: 0px;
+	display: block;
+}
+.center_img {
+	clear: both;
+	margin-left: 0;
+	width: 100%;
+	float: left;
+	display: block;
+	background-color: #FFFFFF;
+}
+.guide {
+	color: #FFB600;
+	font-weight: bold;
+}
+.right_img_placement {
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: thin double #FFB600;
+	margin-bottom: 10px;
+}
+.right_placement_no_border {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-style: none;
+	border-width: thin;
+	float: right;
+}
+.left_img_placement {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border: thin solid #FFB600;
+	float: left;
+}
+.left_placement_no_border {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-style: none;
+	border-width: thin;
+	float: left;
+}
+.bullet_term {
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+	font-size: medium;
+	text-align: left;
+}
+.fluid {
+	clear: both;
+	margin-left: 0;
+	width: 100%;
+	float: left;
+	display: block;
+	background-color: #FFFFFF;
+}
+.fluidList {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+ul li a {
+	width: 100%;
+	text-decoration: none;
+	padding-left: 1%;
+	padding-right: 1%;
+	color: #00DDF8;
+}
+ul li a:hover {
+	color: #FFB600;
+	background-color: #FF7600;
+}
+li {
+	display: inline;
+}
